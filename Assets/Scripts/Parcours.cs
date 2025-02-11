@@ -6,11 +6,11 @@ using UnityEngine.SceneManagement;
 public class Parcours : MonoBehaviour
 {
     int Time = 5;
-    [SerializeReference] private GameObject _plateforme;
+    // [SerializeReference] private GameObject _plateforme;
     // Start is called before the first frame update
     void Start()
     {
-        _plateforme.SetActive(false);
+        // _plateforme.SetActive(false);
     }
 
     // Update is called once per frame
