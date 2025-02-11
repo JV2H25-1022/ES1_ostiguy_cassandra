@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Detruire
+  - Terminus
   layers:
   - Default
   - TransparentFX
